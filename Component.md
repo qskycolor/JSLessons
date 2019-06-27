@@ -7,3 +7,6 @@ let comp = {
 
 ``` html ```
 <component name="mycomponent" data="{}">
+    
+    
+
